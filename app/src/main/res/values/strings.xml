@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LiveDataLogin</string>
+
+    <!-- Login -->
+    <string name="logo_android">Logo de Android</string>
+    <string name="logo_sin_cuenta">Ilustración sin cuenta</string>
+    <string name="no_cuenta_pregunta">¿No tienes una cuenta?</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="android">android</string>
+
+    <!-- Register -->
+    <string name="logo_con_cuenta">Ilustración con cuenta</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="usuario">Usuario</string>
+    <string name="iniciar_con_google">Registrarse con Google</string>
+
+    <!-- Main -->
+    <string name="bienvenido_usuario">Bienvenido USUARIO</string>
+    <string name="que_es_viewmodel">¿Qué es ViewModel?</string>
+    <string name="viewmodel_desc">Un ViewModel es un objeto diseñado específicamente para almacenar y gestionar los datos relacionados con la interfaz de usuario.</string>
+    <string name="que_es_livedata">¿Qué es LiveData?</string>
+    <string name="livedata_desc">LiveData es un contenedor de datos observable.</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="info_img">Imagen info</string>
+
+    <!-- Register con Google -->
+    <string name="default_web_client_id">143800552624-50ijbc0cs043kejujupeg8gmb7uaat0t.apps.googleusercontent.com</string>
+</resources>

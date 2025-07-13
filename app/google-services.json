@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143800552624",
+    "project_id": "s11-login",
+    "storage_bucket": "s11-login.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143800552624:android:d5923c47ecd74f77cc3f75",
+        "android_client_info": {
+          "package_name": "com.example.s11_app_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143800552624-50ijbc0cs043kejujupeg8gmb7uaat0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ648L9Dg_qUtDc6XtDla_D7vEhTTp0U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143800552624-50ijbc0cs043kejujupeg8gmb7uaat0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

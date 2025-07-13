@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales -->
+    <color name="blue_primary">#6A5CFA</color>
+    <color name="blue_dark">#8578F7</color>
+
+    <!-- Colores básicos -->
+    <color name="white">#181828</color>
+    <color name="whitebg">#33323E</color>
+    <color name="google">#BBBBBB</color>
+    <color name="black">#FFFFFF</color>
+    <color name="gray">#BBBBBB</color>
+
+    <!-- Colores de estado -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FF9800</color>
+</resources>
